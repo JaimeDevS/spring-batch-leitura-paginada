@@ -5,7 +5,7 @@
 
 - [Using Docker Compose with MySQL and phpMyAdmin](https://github.com/devsuperior/docker-compose-mysql)
 
-- [Postman collection](https://aulas-dev.postman.co/workspace/Aulas~753bbef2-fe07-4529-94f9-4afc7a9e1642/collection/12568978-e8571187-8e41-436a-999b-a823def9d888?action=share&creator=12568978)
+- [Postman collection](https://github.com/JaimeDevS/spring-batch-leitura-paginada/blob/master/SPRING_BATCH.postman_collection.json)
 
 #### import.sql
 
